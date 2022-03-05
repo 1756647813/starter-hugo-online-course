@@ -11,7 +11,7 @@ cta:
   icon: user-graduate
 widget_id: "1"
 headless: true
-weight: 30
+weight: 10
 title: Macroeconomic research
 cta_alt:
   ? url
