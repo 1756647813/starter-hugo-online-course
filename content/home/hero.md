@@ -30,7 +30,7 @@ Published with the [Wowchemy Website Builder](https://wowchemy.com/) for Hugo.
 
 Introduce your courses here.
 
-<a class="github-button">夏堰龙的课</a>
+<a class="github-button" href="https://www.baidu.com">夏堰龙的课</a>
 
 <br>
 
