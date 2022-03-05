@@ -34,6 +34,6 @@ Introduce your courses here.
 
 <br>
 
-<a class="github-button" href="https://www.baidu.com" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star the Online Course template">Star the Online Course template</a>
+<a class="github-button" href="https://github.com/1756647813/starter-hugo-online-course/commit/8c650a0de42c7e525994228b56771d8db570f0e6" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star the Online Course template">Star the Online Course template</a>
 
 <script async defer src="https://buttons.github.io/buttons.js"></script>
