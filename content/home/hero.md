@@ -24,12 +24,4 @@ design:
     text_color_light: false
 hero_media: student.svg
 ---
-<br>
-
-Published with the [Wowchemy Website Builder](https://wowchemy.com/) for Hugo.Introduce your courses here.
-
-<br>
-
 <a class="github-button" href="https://github.com/1756647813/starter-hugo-online-course/blob/main/king1988.pdf/" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star the Online Course template">Star the Online Course template</a>
-
-<script async defer src="https://buttons.github.io/buttons.js"></script>
