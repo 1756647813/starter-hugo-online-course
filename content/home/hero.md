@@ -26,11 +26,7 @@ hero_media: student.svg
 ---
 <br>
 
-Published with the [Wowchemy Website Builder](https://wowchemy.com/) for Hugo.
-
-Introduce your courses here.
-
-<a class="github-button" href="https://www.baidu.com">夏堰龙的课</a>
+Published with the [Wowchemy Website Builder](https://wowchemy.com/) for Hugo.Introduce your courses here.
 
 <br>
 
