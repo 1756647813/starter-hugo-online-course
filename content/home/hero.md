@@ -30,4 +30,10 @@ Published with the [Wowchemy Website Builder](https://wowchemy.com/) for Hugo.
 
 Introduce your courses here.
 
-<a class="github-button" href="https://www.baidu.com" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star Wowchemy Website Builder for Hugo">Star Wowchemy Website Builder for Hugo</a><br><a class="github-button" href="https://www.baidu.com" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star the Online Course template">Star the Online Course template</a><script async defer src="https://buttons.github.io/buttons.js"></script>
+<a class="github-button" href="https://www.baidu.com" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star Wowchemy Website Builder for Hugo">夏堰龙的课</a>
+
+<br>
+
+<a class="github-button" href="https://www.baidu.com" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star the Online Course template">Star the Online Course template</a>
+
+<script async defer src="https://buttons.github.io/buttons.js"></script>
